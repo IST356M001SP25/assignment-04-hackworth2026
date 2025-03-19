@@ -1,8 +1,8 @@
 {
-    "python.testing.pytestArgs": [
-        "tests",
-        "-s"
-    ],
+    "python.pythonPath": "/path/to/your/python",
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+        "tests"
+    ]
 }
