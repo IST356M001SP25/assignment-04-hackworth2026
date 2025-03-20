@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I felt a bit better with this assignment. I still feel that I need to spend more time on my understanding and application of panda code. And just being able to think outside the box with these implanted features in streamlit. I have more confidence in being able to attempt it in lesser repitions and can progress further with the lesson intended.
